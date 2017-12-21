@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLiteDatabase用法示例</string>
+    <string name="create_or_open_db">创建或打开数据库</string>
+    <string name="create_table">创建表</string>
+    <string name="add_record">添加表记录</string>
+    <string name="update_record">更新表记录</string>
+    <string name="display_all_records">显示全部表记录</string>
+    <string name="delete_all_records">删除全部表记录</string>
+    <string name="delete_table">删除表</string>
+    <string name="delete_db">删除数据库</string>
+    <string name="action_settings">设置</string>
+</resources>
